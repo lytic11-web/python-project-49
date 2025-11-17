@@ -14,3 +14,7 @@ build:
 # Install the built package system-wide
 package-install:
 	uv tool install dist/*.whl
+
+# Run the linter
+lint:
+	uv run ruff check brain_games
