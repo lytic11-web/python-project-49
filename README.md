@@ -14,3 +14,5 @@
 
 brain-even   asciinema.org
 https://asciinema.org/a/d3XQhtjV2Ir8aSb5XE0Qi1BWm
+brain-calc  asciinema.org
+https://asciinema.org/a/mEErFUxBs3tsQ8hsQ4a4kcCCT
