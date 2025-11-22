@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 from brain_games.engine import run_game
-from brain_games.games.gcd import generate_round
+from brain_games.games.progression import generate_round
 
-DESCRIPTION = "Find the greatest common divisor of given numbers."
+DESCRIPTION = "What number is missing in the progression?"
 
 
 def main():
