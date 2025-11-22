@@ -20,3 +20,5 @@ brain-gcd  asciinema.org
 https://asciinema.org/a/NK5xTfNSEInZOxxvc2jcr7XbN
 brain-progression  asciinema.org
 https://asciinema.org/a/n70jSFepIQlKTPKmGhWH7QCed
+brain-prime asciinema.org
+https://asciinema.org/a/dbBAKinjGY6PLpkdJDcHoDVnS
