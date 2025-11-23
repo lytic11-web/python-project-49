@@ -12,11 +12,10 @@
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=lytic11-web_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=lytic11-web_python-project-49)
 
 
-This project was built using these tools:
+###This project was built using these tools:
 
-|Tool                            	|Description                                                            |
-|[uv](https://docs.astral.sh/uv/)	|"An extremely fast Python package and project manager, written in Rust"|
-|[ruff](https://docs.astral.sh/ruff/)	|"An extremely fast Python linter and code formatter, written in Rust"  |
+- [uv](https://docs.astral.sh/uv/) "An extremely fast Python package and project manager, written in Rust"
+- [ruff](https://docs.astral.sh/ruff/) "An extremely fast Python linter and code formatter, written in Rust"
 
 
 ## Brain Games is a collection of five console math games. Each game presents a unique challenge to test your math skills.
@@ -44,8 +43,8 @@ brain-progression
 brain-prime
 
 ## Demo
-brain-even https://asciinema.org/a/d3XQhtjV2Ir8aSb5XE0Qi1BWm
-brain-calc https://asciinema.org/a/mEErFUxBs3tsQ8hsQ4a4kcCCT
-brain-gcd https://asciinema.org/a/NK5xTfNSEInZOxxvc2jcr7XbN
-brain-progression https://asciinema.org/a/n70jSFepIQlKTPKmGhWH7QCed
-brain-prime https://asciinema.org/a/dbBAKinjGY6PLpkdJDcHoDVnS
+- [Brain Even Demo](https://asciinema.org/a/d3XQhtjV2Ir8aSb5XE0Qi1BWm)
+- [Brain Calc Demo](https://asciinema.org/a/mEErFUxBs3tsQ8hsQ4a4kcCCT)
+- [Brain GCD Demo](https://asciinema.org/a/NK5xTfNSEInZOxxvc2jcr7XbN)
+- [Brain Progression Demo](https://asciinema.org/a/n70jSFepIQlKTPKmGhWH7QCed)
+- [Brain Prime Demo](https://asciinema.org/a/dbBAKinjGY6PLpkdJDcHoDVnS)
